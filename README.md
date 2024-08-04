@@ -1,10 +1,6 @@
-# Welcome to My GitHub Profile!
-
-<div align="center" style="background-size: cover; background-position: center; padding: 20px;">
-  <h3>Hi 👋, I'm <a href="https://cameronseppi.com">Cameron!</a></h3>
+<div align="center">
+  <h1>Hi 👋, I'm Cameron!</h1>
 </div>
-
----
 
 ## About Me
 
@@ -18,25 +14,22 @@ I am a Full-Stack Software Developer with a passion for building dynamic and res
 
 - **Front-End Development**: React, Tailwind CSS
 - **Back-End Development**: ASP.NET, Supabase
+- **Cloud Hosting**: Vercel, Azure
 - **Database Management**: SQL, NoSQL
-- **Other Tools**: Git, GitHub, Vercel
+
 
 ## Projects
 
 Here are some of the projects I’ve been working on:
 
-- **Zenowl**: [Link to Zenowl][(#)](https://zenowl.io)
+- [**Zenowl**](https://zenowl.io)
 
 *(Note: Repositories for these projects are private. Code samples available upon request.)*
 
 ## How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cameronseppi/) or email me at [email@example.com](mailto:email@example.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cameronseppi/) or email me at [cameron.seppi@pm.com](mailto:cameron.seppi@pm.com).
 
 ## Additional Information
 
-For more details about my work, check out my [Upwork profile](#) and explore my [GitHub repositories](#).
-
----
-
-Thank you for visiting my GitHub profile! 🎉
+For more details about my freelance work, check out my [Upwork profile](https://www.upwork.com/freelancers/~013e30edd7ae43c7cb?mp_source=share).
