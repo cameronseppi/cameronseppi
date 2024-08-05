@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Full-Stack Software Developer with a passion for building dynamic and responsive web applications.
+I am a Full-Stack Software Developer with a passion for building dynamic web applications for startups.
 
 - 🎓 Currently pursuing a B.S. in Computer Science at Utah Valley University
 - 💼 Open to freelance opportunities
