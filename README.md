@@ -12,11 +12,11 @@ I am a Full-Stack Software Developer with a passion for building dynamic and res
 
 ## Skills
 
-- **Front-End Development**: React, Tailwind CSS
-- **Back-End Development**: C#, Supabase
-- **Cloud Hosting**: Vercel, Azure
-- **Database Management**: SQL, NoSQL
-
+- React.js
+- Typescript
+- C#
+- Python
+- SQL
 
 ## Projects
 
