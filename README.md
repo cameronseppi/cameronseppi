@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Full-Stack Software Developer with a passion for building dynamic and responsive web applications. I specialize in React for front-end development and have experience with backends using ASP.NET and Supabase.
+I am a Full-Stack Software Developer with a passion for building dynamic and responsive web applications.
 
 - 🎓 Currently pursuing a B.S. in Computer Science at Utah Valley University
 - 💼 Open to freelance opportunities
@@ -13,7 +13,7 @@ I am a Full-Stack Software Developer with a passion for building dynamic and res
 ## Skills
 
 - **Front-End Development**: React, Tailwind CSS
-- **Back-End Development**: ASP.NET, Supabase
+- **Back-End Development**: C#, Supabase
 - **Cloud Hosting**: Vercel, Azure
 - **Database Management**: SQL, NoSQL
 
