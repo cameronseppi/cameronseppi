@@ -7,7 +7,7 @@
 I am a Full-Stack Software Developer with a passion for building dynamic web applications for startups.
 
 - 🎓 Currently pursuing a B.S. in Computer Science at Utah Valley University
-- 💼 Open to freelance opportunities
+- 💼 Open to both freelance and job opportunities
 - 🌐 Check out my [personal website](https://cameronseppi.com) for more information
 
 ## Skills
