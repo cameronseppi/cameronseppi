@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Full-Stack Engineer with a passion for building products that transform human interaction with technology.
+I am a Full-Stack Engineer with a passion for building human-centric products.
 
 - 🎓 Currently pursuing a B.S. in Computer Science at Utah Valley University
 - 💼 Open to both freelance and job opportunities
