@@ -7,7 +7,6 @@
 I am a Full-Stack Software Engineer with a passion for building human-centric products.
 
 - 🎓 Currently pursuing a B.S. in Computer Science at Utah Valley University
-- 💼 Open to both freelance and job opportunities
 - 🌐 Check out my [personal website](https://cameronseppi.com) for more information
 
 ## Skills
@@ -17,14 +16,6 @@ I am a Full-Stack Software Engineer with a passion for building human-centric pr
 - C#
 - Python
 - SQL
-
-## Projects
-
-Here are some of the projects I’ve been working on:
-
-- [**Zenowl**](https://zenowl.io)
-
-*(Note: Repositories for these projects are private. A portfolio review will be available upon request.)*
 
 ## How to Reach Me
 
