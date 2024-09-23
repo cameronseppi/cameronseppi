@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Full-Stack Software Engineer with a passion for building human-centric products.
+I am a Full-Stack Software Engineer with a passion for building people-centric products.
 
 - 🎓 Currently pursuing a B.S. in Computer Science at Utah Valley University
 - 🌐 Check out my [personal website](https://cameronseppi.com) for more information
